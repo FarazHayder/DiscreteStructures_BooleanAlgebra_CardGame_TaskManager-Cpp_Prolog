@@ -1,4 +1,4 @@
-# DiscreteStructures_BooleanAlgebra_CardGame_TaskManager-Cpp_Prolog
+# DiscreteStructures_BooleanAlgebra_CardGame_TaskManager-Cpp/Python_Prolog
 This repository contains Discrete Structure's; Boolean Algebra,  Card Game, Task Manager in C++/Python and Prolog respectively 🧑🏻‍💻 
 
 ## Discrete Structures and Task Manager
