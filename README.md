@@ -5,9 +5,9 @@ This repository contains Discrete Structure's; Boolean Algebra,  Card Game, Task
 Welcome to the Discrete Structures and Task Manager repository! This repository contains implementations of Discrete Structures concepts and a Task Manager application in C++/Python and Prolog, respectively.
 
 ## Contents
-Boolean Algebra: Implementation of Boolean algebra operations in C++.
-Propositional Logic: Implementation of propositional logic operations in C++.
-Set Card Game: Implementation of the Set card game in C++.
+Boolean Algebra: Implementation of Boolean algebra operations in C++/Python.
+Propositional Logic: Implementation of propositional logic operations in C++/Python.
+Set Card Game: Implementation of the Set card game in C++/Python.
 Task Manager: Implementation of a Task Manager application in Prolog.
 
 ## Description
