@@ -27,3 +27,6 @@ Feel free to explore each directory to understand the implementations better. Yo
 
 ## Contribution
 If you find any errors or have suggestions for improvement, please feel free to open an issue or submit a pull request. Contributions are welcome and encouraged!
+
+## Author
+This repository is authored by Faraz Hayder.
